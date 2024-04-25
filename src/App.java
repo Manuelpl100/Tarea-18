@@ -3,6 +3,7 @@ public class App {
         System.out.println("Hello, Feature1!");
         System.out.println("Hello, Feature2!");
         System.out.println("Hello, Feature3!");
+        System.out.println("Hello, Feature4!");
 
     }
 }
